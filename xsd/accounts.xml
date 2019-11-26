@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bankAccounts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="accounts.xsd">
+
+	<account number="1">
+		<holder address="Via Roma 1" fiscalId="PLCYLN95C46H224D" name="Ylenia" />
+		<yearOperations year="2019">
+			<operation amount="100" date="2001-01-01" />
+		</yearOperations>
+	</account>
+
+	<account number="2">
+		<holder address="Via Po 1" fiscalId="PLCYLN95C46H224A" name="Yle" />
+		<yearOperations year="2020">
+			<operation amount="10" date="2020-01-01" />
+		</yearOperations>
+		<yearOperations year="2019">
+			<operation amount="120" date="2001-01-01" />
+		</yearOperations>
+	</account>
+
+	<account number="3">
+		<holder address="Corso Vittorio" fiscalId="PLCYLN95C46H224B"
+			name="YYY" />
+		<yearOperations year="2018">
+			<operation amount="0" date="2018-01-01" />
+		</yearOperations>
+	</account>
+</bankAccounts>

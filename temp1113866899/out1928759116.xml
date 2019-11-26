@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:MyBiblio xmlns:ns2="http://pad.polito.it/dp2/biblio">
+    <book ISBN="0131411551" year="2019+01:00" id="15681300">
+        <author>W. Richard Stevens</author>
+        <author>Bill Fenner</author>
+        <author>Andrew M. Rudoff</author>
+        <title>Unix network programming</title>
+        <subtitle>Volume 1: The sockets networking API</subtitle>
+        <publisher>Addison Wesley</publisher>
+    </book>
+    <article id="20920900">
+        <author>T. Sauter</author>
+        <author>C. Schwaiger</author>
+        <title>Achievement of secure Internet access to fieldbus systems</title>
+        <citedBy>27631140</citedBy>
+        <journal>0141-9331</journal>
+        <issue>3181178</issue>
+    </article>
+    <article id="27631140">
+        <author>M. Cheminod</author>
+        <author>A. Pironti</author>
+        <author>R. Sisto</author>
+        <title>Formal Vulnerability Analysis of a Security System for Remote Fieldbus Access</title>
+        <journal>1551-3203</journal>
+        <issue>3195479</issue>
+    </article>
+    <journal ISSN="0141-9331">
+        <title>Microprocessors and Microsystems</title>
+        <publisher>Elsevier</publisher>
+        <issue id="3181178" year="2002" number="7"/>
+    </journal>
+    <journal ISSN="1551-3203">
+        <title>IEEE Transactions on Industrial Informatics</title>
+        <publisher>IEEE</publisher>
+        <issue id="1357425" year="2011" number="3"/>
+        <issue id="3660020" year="2011" number="8"/>
+        <issue id="450464" year="2011" number="1"/>
+        <issue id="902939" year="2011" number="2"/>
+        <issue id="3195479" year="2011" number="7"/>
+        <issue id="2732949" year="2011" number="6"/>
+        <issue id="1813922" year="2011" number="4"/>
+        <issue id="2272430" year="2011" number="5"/>
+        <issue id="4126572" year="2011" number="9"/>
+        <issue id="4595135" year="2011" number="10"/>
+        <issue id="5065709" year="2011" number="11"/>
+        <issue id="5538294" year="2011" number="12"/>
+    </journal>
+</ns2:MyBiblio>
